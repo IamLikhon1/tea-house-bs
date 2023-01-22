@@ -1,0 +1,31 @@
+*{
+    font-family: 'Manrope', sans-serif;
+}
+.btnmy{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+
+
+}
+.my-color{
+    color: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+
+}
+
+.mybg{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+}
+.mybg2{
+    background: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0) 100%);
+}
+.mybg3{
+    background: rgb(255, 244, 244);
+}
+.mybg4{
+    background: rgb(252, 255, 222);
+
+}
+.client-img{
+    position: relative;
+    bottom: 40px;
+    right: 30px;
+}
